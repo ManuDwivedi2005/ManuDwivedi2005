@@ -38,19 +38,19 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 <p align="center">
   <!-- Profile Summary Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manu-Dwivedi2005&theme=tokyonight" alt="Profile Details Card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuDwivedi2005&theme=tokyonight" alt="Profile Details Card" />
 </p>
 
 <p align="center">
   <!-- Streak + Activity Graph Side by Side -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Manu-Dwivedi2005&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manu-Dwivedi2005&theme=tokyo-night&bg_color=1a1b27&hide_border=true" height="180" alt="Activity Graph"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ManuDwivedi2005&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuDwivedi2005&theme=tokyo-night&bg_color=1a1b27&hide_border=true" height="180" alt="Activity Graph"/>
 </p>
 
 <p align="center">
   <!-- Language Usage -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manu-Dwivedi2005&theme=tokyonight" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manu-Dwivedi2005&theme=tokyonight" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManuDwivedi2005&theme=tokyonight" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManuDwivedi2005&theme=tokyonight" height="150"/>
 </p>
 
 
@@ -61,7 +61,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Manu-Dwivedi2005&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ManuDwivedi2005&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=6" alt="Trophies" />
 </p>  
 
 ---
@@ -106,7 +106,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <a href="mailto:manudwivedi2005@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Manu-Dwivedi2005" target="_blank">
+  <a href="https://github.com/ManuDwivedi2005" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/manudwivedi2005/" target="_blank">
