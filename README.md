@@ -121,6 +121,6 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manu-Dwivedi2005&label=Profile%20views&color=ce9927&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ManuDwivedi2005&label=Profile%20views&color=ce9927&style=flat" alt="Profile views" />
 </p>
 
