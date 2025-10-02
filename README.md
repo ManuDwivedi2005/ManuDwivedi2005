@@ -96,6 +96,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="300" />
 </p>
 
+
 <p align="center">
   <!-- Fun Badges -->
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>  
@@ -103,6 +104,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <img src="https://forthebadge.com/images/badges/made-with-javascript.svg"/>  
 </p>
 
+<br>
 ---
 
 ### 🌐 Connect with Me  
