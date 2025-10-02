@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Manu Dwivedi</h1>
 <h3 align="center">🚀 Third-year Engineering Student | Aspiring Full-Stack Developer</h3>
+
 [![An image of @manudwivedi20056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manudwivedi20056)](https://holopin.io/@manudwivedi20056)
 ---
 
