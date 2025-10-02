@@ -87,6 +87,15 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" alt="Coffee GIF"/>  
 </p>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="300" />
+</p>
+
 <p align="center">
   <!-- Fun Badges -->
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>  
