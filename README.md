@@ -113,6 +113,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 </p>
 
 <br>
+
 ![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🌐 Connect with Me  
@@ -137,7 +138,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManuDwivedi2005&label=Profile%20views&color=ce9927&style=flat" alt="Profile views" />
