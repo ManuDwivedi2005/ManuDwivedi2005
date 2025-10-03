@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Manu+Dwivedi+Here!;I'm+a+Third-year+Engineering+Student+Developer;And+I+love+to+code!)
-<h1 align="center">👋 Hi, I'm Manu Dwivedi</h1>
-<h3 align="center">🚀 Third-year Engineering Student | Aspiring Full-Stack Developer</h3>
+<!-- <h1 align="center">👋 Hi, I'm Manu Dwivedi</h1>
+<h3 align="center">🚀 Third-year Engineering Student | Aspiring Full-Stack Developer</h3> -->
 
 ![My Tech Stack](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 ---
