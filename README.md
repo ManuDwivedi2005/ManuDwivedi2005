@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Manu Dwivedi</h1>
 <h3 align="center">🚀 Third-year Engineering Student | Aspiring Full-Stack Developer</h3>
 
-
+![My Tech Stack](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 ---
 
 ### 👨‍💻 About Me  
