@@ -68,6 +68,8 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 [![An image of @manudwivedi20056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manudwivedi20056)](https://holopin.io/@manudwivedi20056)
 
+[![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/0cXkKuquQPG5clUSCvk1Jw/image)](https://api.badgr.io/public/assertions/0cXkKuquQPG5clUSCvk1Jw)
+
 ---
 
 ### ✨ Fun Corner  
