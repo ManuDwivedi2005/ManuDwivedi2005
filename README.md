@@ -69,6 +69,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 [![An image of @manudwivedi20056's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manudwivedi20056)](https://holopin.io/@manudwivedi20056)
 
 [![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/0cXkKuquQPG5clUSCvk1Jw/image)](https://api.badgr.io/public/assertions/0cXkKuquQPG5clUSCvk1Jw)
+[![Google I/O 2025 Registered](https://storage.googleapis.com/developers-api-prod-badges/events/io/2025/IO25_Registered.png)](https://developers.google.com/profile/badges/events/io/2025/registered)
 
 ---
 
