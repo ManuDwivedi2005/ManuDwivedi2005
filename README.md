@@ -2,8 +2,8 @@
 <!-- <h1 align="center">👋 Hi, I'm Manu Dwivedi</h1>
 <h3 align="center">🚀 Third-year Engineering Student | Aspiring Full-Stack Developer</h3> -->
 
-![My Tech Stack](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
----
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 ### 👨‍💻 About Me  
 I’m a third-year engineering student passionate about building **scalable web applications** and crafting **clean user experiences**.  
@@ -12,7 +12,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 💡 I enjoy problem-solving, experimenting with new tools, and learning how things work under the hood.  
 🎯 My long-term goal: **Full-Stack Developer** with strong foundations in algorithms and systems design.  
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🛠️ Tech Stack  
 
@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 📊 GitHub Insights  
 
@@ -57,7 +57,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🏆 Achievements & Highlights  
 
@@ -72,7 +72,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 [![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/0cXkKuquQPG5clUSCvk1Jw/image)](https://api.badgr.io/public/assertions/0cXkKuquQPG5clUSCvk1Jw)
 [![Google I/O 2025 Registered](https://storage.googleapis.com/developers-api-prod-badges/events/io/2025/IO25_Registered.png)](https://developers.google.com/profile/badges/events/io/2025/registered)
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### ✨ Fun Corner  
 
@@ -113,7 +113,7 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 </p>
 
 <br>
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 🌐 Connect with Me  
 
