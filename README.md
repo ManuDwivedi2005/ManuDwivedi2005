@@ -12,7 +12,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 💡 I enjoy problem-solving, experimenting with new tools, and learning how things work under the hood.  
 🎯 My long-term goal: **Full-Stack Developer** with strong foundations in algorithms and systems design.  
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ### 🛠️ Tech Stack  
 
@@ -34,7 +34,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ### 📊 GitHub Insights  
 
@@ -57,7 +57,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ### 🏆 Achievements & Highlights  
 
@@ -72,7 +72,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 [![Postman API Fundamentals Student Expert](https://api.badgr.io/public/assertions/0cXkKuquQPG5clUSCvk1Jw/image)](https://api.badgr.io/public/assertions/0cXkKuquQPG5clUSCvk1Jw)
 [![Google I/O 2025 Registered](https://storage.googleapis.com/developers-api-prod-badges/events/io/2025/IO25_Registered.png)](https://developers.google.com/profile/badges/events/io/2025/registered)
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ### ✨ Fun Corner  
 
@@ -113,7 +113,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 </p>
 
 <br>
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ### 🌐 Connect with Me  
 
@@ -137,7 +137,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManuDwivedi2005&label=Profile%20views&color=ce9927&style=flat" alt="Profile views" />
