@@ -82,21 +82,13 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 </p>
 
 <p align="center">
-  <!-- Coding GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>  
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="220" alt="Matrix Hacker"/>
+  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="220" alt="Debugging GIF"/>
+  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" alt="Coffee GIF"/>
 
-  <!-- Hacker Matrix Vibe -->
-  <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="220" alt="Matrix Hacker"/>  
+  <br><br>
 
-  <!-- Debugging in Real Life -->
-  <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="220" alt="Debugging GIF"/>  
-
-  <!-- Coffee = Programmer Fuel -->
-  <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" alt="Coffee GIF"/>  
-</p>
-
-
-<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300" />
