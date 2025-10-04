@@ -4,15 +4,22 @@
 
 ![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<div align="right">
+  <!-- Floats the image to the right, allowing text to wrap around it -->
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Thinking" width="250" />
+</div>
 
-### 👨‍💻 About Me  
-I’m a third-year engineering student passionate about building **scalable web applications** and crafting **clean user experiences**.  
-Currently mastering the **MERN stack** while sharpening my **DSA skills** to become a well-rounded developer.  
+### 👨‍💻 About Me
+I’m a third-year engineering student passionate about building **scalable web applications** and crafting **clean user experiences**.
+Currently mastering the **MERN stack** while sharpening my **DSA skills** to become a well-rounded developer.
 
-💡 I enjoy problem-solving, experimenting with new tools, and learning how things work under the hood.  
-🎯 My long-term goal: **Full-Stack Developer** with strong foundations in algorithms and systems design.  
+<br>
 
-![Thinking](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)
+💡 I enjoy problem-solving, experimenting with new tools, and learning how things work under the hood.
+🎯 My long-term goal: **Full-Stack Developer** with strong foundations in algorithms and systems design.
+
+<!-- This ensures content below this section starts on a new line and doesn't wrap -->
+<div style="clear: both;"></div>
 
 ![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
