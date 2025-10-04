@@ -81,20 +81,21 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Dev Quote"/>  
 </p>
 
-<p align="center">
+<div align="center">
+  <!-- Group 1 -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
   <img src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="220" alt="Matrix Hacker"/>
   <img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="220" alt="Debugging GIF"/>
   <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200" alt="Coffee GIF"/>
 
-  <br><br>
-
+  <!-- Group 2 (Wider images start wrapping here) -->
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="300" />
-</p>
+</div>
+
 
 
 <p align="center">
