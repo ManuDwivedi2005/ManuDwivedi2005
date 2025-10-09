@@ -82,6 +82,12 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 ![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<a href="https://www.codechef.com/users/ManuDwivedi2005">
+  <img src="https://github.com/ManuDwivedi2005/ManuDwivedi2005/raw/main/CodeChefbadge/CodeChefBadge.png" alt="CodeChef Badge" width="200"/>
+</a>
+
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
