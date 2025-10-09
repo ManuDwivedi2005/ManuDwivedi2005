@@ -53,6 +53,9 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuDwivedi2005&theme=tokyonight" alt="Profile Details Card" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuDwivedi2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+
 <p align="center">
   <!-- Streak + Activity Graph Side by Side -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=ManuDwivedi2005&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
