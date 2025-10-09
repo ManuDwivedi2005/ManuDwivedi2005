@@ -66,6 +66,8 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 </p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Manu_Dwivedi?theme=dark&font=baloo&extension=activity)](https://leetcode.com/Manu_Dwivedi)
+[![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manudwivedi2005/profile)
+
 
 
 
