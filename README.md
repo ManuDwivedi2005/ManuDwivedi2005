@@ -94,6 +94,12 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <img src="https://github.com/ManuDwivedi2005/ManuDwivedi2005/raw/main/CodeChefbadge/CodeChefBadge.png" alt="CodeChef Badge" width="200"/>
 </a>
 
+<a href="https://www.codechef.com/users/ManuDwivedi2005">
+  <img src="https://github.com/ManuDwivedi2005/ManuDwivedi2005/blob/5baea6f416d12534590a90f4b9232ddaa8819e1d/CodeChefbadge/2.png" alt="CodeChef Badge" width="200"/>
+</a>
+
+
+
 ![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
