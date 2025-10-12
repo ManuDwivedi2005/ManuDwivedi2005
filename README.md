@@ -170,7 +170,7 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <a href="https://github.com/ManuDwivedi2005" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/manudwivedi2005/" target="_blank">
+  <a href="https://leetcode.com/u/Manu_Dwivedi/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45" height="45" alt="LeetCode"/>
   </a>
 </p>
