@@ -180,6 +180,10 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 
 ![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ManuDwivedi2005&label=Profile%20views&color=ce9927&style=flat" alt="Profile views" />
