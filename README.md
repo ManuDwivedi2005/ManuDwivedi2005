@@ -188,3 +188,6 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
   <img src="https://komarev.com/ghpvc/?username=ManuDwivedi2005&label=Profile%20views&color=ce9927&style=flat" alt="Profile views" />
 </p>
 
+
+![bottom wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
