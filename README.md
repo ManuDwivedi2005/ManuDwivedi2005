@@ -5,11 +5,9 @@
 ![Developer GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-<div align="right">
-  <!-- Floats the image to the right, allowing text to wrap around it -->
-  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="Thinking" width="250" />
-</div>
 
+
+![Tech](https://camo.githubusercontent.com/0cc7b531ba7bbf53ac98a5a28d6ea1d113cc44af6022c5ba5869b28f70b09e46/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a5241735a327544335a4f372d4e43754b324d55494c412e676966)
 ### 👨‍💻 About Me
 I’m a third-year engineering student passionate about building **scalable web applications** and crafting **clean user experiences**.
 Currently mastering the **MERN stack** while sharpening my **DSA skills** to become a well-rounded developer.
