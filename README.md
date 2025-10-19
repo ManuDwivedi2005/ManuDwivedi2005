@@ -52,12 +52,14 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManuDwivedi2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuDwivedi2005&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 
 <p align="center">
   <!-- Streak + Activity Graph Side by Side -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=ManuDwivedi2005&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManuDwivedi2005&theme=tokyo-night&bg_color=1a1b27&hide_border=true" height="180" alt="Activity Graph"/>
 </p>
 
 <p align="center">
@@ -190,4 +192,6 @@ Currently mastering the **MERN stack** while sharpening my **DSA skills** to bec
 
 
 ![bottom wave](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
+
 
